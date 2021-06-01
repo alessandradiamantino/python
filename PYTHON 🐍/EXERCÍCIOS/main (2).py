@@ -1,0 +1,5 @@
+i= int(input("Digite as notas\n"))
+j = int(input("Digite as notas\n"))
+k = int(input("Digite as notas\n"))
+l = int(input("Digite as notas\n"))
+print(i + j + k + l / 4)
